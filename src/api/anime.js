@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const router = express.Router();
 
-const BASE_URL = 'https://satoru-flame.vercel.app';
+const BASE_URL = 'https://hindi-api-three.vercel.app';
 
 // Helper function to capitalize words
 function capitalizeWords(str) {
